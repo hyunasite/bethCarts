@@ -1,0 +1,6 @@
+{
+  "name": "J&J Sari-Sari Store",
+  "description": "A high-fidelity boutique storefront with real-time Firebase syncing and persistent local storage fallback mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
